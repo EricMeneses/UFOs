@@ -2,7 +2,7 @@
 Module 11
 
 ## Overview of Project
-In working with Dana, she wanted to create an interactive dashboard that would be impressive to NASA. First thing she wanted to create was a filterable table to display data around UFO sightings. We were able to complete this task by working with variables and lists. Next, we began to build a page using JavaScript. With JavaScript, we juggled a few files at once; HTML, JavaScript, images and a CSS Style sheet. We then utilized for loops to iterate through the data so that it could be added to the table we created. We then took advantage of Data-Driven Documents (D3) to make our table interactive. We did so by utilizing filters to access specific features in her data by using several different key terms, such as date or location. Once we finished, we decided to add color and an image on the webpage to make it more visually apealing.
+In working with Dana, she wanted to create an interactive dashboard that would prove to be impressive. First thing she wanted to create was a filterable table to display data around UFO sightings. We were able to complete this task by working with variables and lists. Next, we began to build a page using JavaScript. With JavaScript, we juggled a few files at once; HTML, JavaScript, images and a CSS Style sheet. We then utilized for loops to iterate through the data so that it could be added to the table we created. We then took advantage of Data-Driven Documents (D3) to make our table interactive. We did so by utilizing filters to access specific features in her data by using several different key terms, such as date or location. Once we finished, we decided to add color and an image on the webpage to make it more visually apealing.
 
 ## Results
 ### How to use UFO Finder
@@ -27,3 +27,8 @@ Once we are finished viewing the data, we can scroll to the top of the page and 
 ![alt text](UFOFinderScreenshots/Results5.png)
 
 ## Summary
+##### One Drawback
+One draw back to the new design is that it doesn't automatically populate new sightings and it is limited to the year 2010 (ten years ago). 
+
+##### Two Recommendations for Future Development
+My first recommendation is to collect more recent data so that the sightings are more credible and up-to-date. My second recommendation is to add a feature that will calculate the total number of sightings that were found based on the search criteria entered. As data is added, the search results over time can become extensive. The ability to have the webpage calculate how many sightings fit the search that was entered by the user could also save time.
